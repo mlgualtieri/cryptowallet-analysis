@@ -1,2 +1,2 @@
 # cryptowallet-analysis
-Scripts to get lifetime balance transfers from cryptocurrency wallets
+Includes scripts to calculate the lifetime balance transfers from cryptocurrency wallets.  Useful for security researchers interested in analyzing wallets used by abusive campaigns. 
